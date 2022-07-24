@@ -1,0 +1,6 @@
+[
+    {
+        "outputFile": "wwwroot/css/main.min.css",
+        "inputFire": "wwwroot/sass/main.scss"
+    }
+]

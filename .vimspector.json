@@ -1,0 +1,16 @@
+{
+  "configurations": {
+    "launch - netcoredbg": {
+      "adapter": "netcoredbg",
+      "filetypes": [ "cs", "fsharp", "vbnet" ], 
+      "configuration": {
+        "request": "launch",
+        "program": "${workspaceRoot}/bin/Debug/net6.0/MyCompany.dll",
+        "args": [],
+        "stopAtEntry": true,
+        "cwd": "${workspaceRoot}",
+        "env": {}
+      }
+    }
+  }
+}
